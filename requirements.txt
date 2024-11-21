@@ -1,5 +1,4 @@
 requests
-zipfile
 overpy
 pandas
 geopandas
