@@ -1,0 +1,10 @@
+requests
+zipfile
+overpy
+pandas
+geopandas
+shapely
+numpy
+folium
+scikit-learn
+tensorflow==2.15.0
