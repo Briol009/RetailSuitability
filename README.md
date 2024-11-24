@@ -5,9 +5,9 @@ This project examines were to place potential new business sites around the Twin
 ### Run this application
 Open the link below, wait a minute or two, and it will launch an interactive Jupyter Notebook containing my code. Input your Google Maps API Key in the file, and then run all the cells (click Run at the top--> Run All Cells) and eventually a map with the final suitability analysis will be saved.
 
-https://mybinder.org/v2/gh/Briol009/RetailSuitability/main?labpath=RetailSuitability.ipynb
+https://mybinder.org/v2/gh/briollaure/RetailSuitability/main?labpath=RetailSuitability.ipynb
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Briol009/RetailSuitability/main?labpath=RetailSuitability.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/briollaure/RetailSuitability/main?labpath=RetailSuitability.ipynb)
 
 View results here:
-https://briol009.github.io/RetailSuitability/
+https://briollaure.github.io/RetailSuitability/
